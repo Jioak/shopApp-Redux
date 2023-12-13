@@ -13,7 +13,7 @@ const App = () => {
   </div>
   <div>
     <Routes>
-      <Route path="/"  element={<Home/>}/>
+      <Route path="/shopApp-Redux"  element={<Home/>}/>
       <Route path="/cart"  element={<Cart/>}/>
     </Routes>
   </div>
